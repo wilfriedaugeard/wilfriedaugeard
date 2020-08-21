@@ -1,3 +1,9 @@
+<p align = "center">
+  
+[<img src="https://github.com/wilfriedaugeard/wilfriedaugeard/blob/master/assets/banner.png" height="400"/>](https://github.com/wilfriedaugeard/) 
+
+</p>
+
 ## Hi there 👋
 
 I am **Wilfried Augeard**, student in Computer Science (Master 2) specializing in Software Engineering @ University of Bordeaux. I am passionate about aeronautics and aerospace.
