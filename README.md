@@ -27,7 +27,6 @@ I carry out missions as a freelance developer. **Skilled in  C/C++, Java, Python
   <img alt="Langages card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilfriedaugeard&layout=compact&title_color=5FC396&text_color=5FC396&hide=Tex"/>
 </p>
 
-</br>
 
 ## Skills
 <p align="left">
@@ -49,7 +48,7 @@ I carry out missions as a freelance developer. **Skilled in  C/C++, Java, Python
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
 </p>
 
-</br>
+
 
 ## Social Networks
 <p align = "center">
