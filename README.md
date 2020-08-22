@@ -7,7 +7,7 @@
 ## Hi there 👋
 
 I am **Wilfried Augeard**, student in Computer Science (Master 2) specializing in Software Engineering @ University of Bordeaux. I am passionate about aeronautics and aerospace.
-I carry out missions as a freelance developer. **Skilled in  C/C++, Java, Python, RESTfull API’s and  PHP.** I am looking for an end of studies internship.
+I carry out missions as a freelance developer. **Skilled in  C/C++, Java, Python, RESTfull API’s and  PHP.** I am looking for an **end of studies internship**.
 
 
 [Personal website](www.waugeard.com) - [Freelancing](https://www.malt.fr/profile/wilfriedaugeard1)
@@ -62,5 +62,6 @@ I carry out missions as a freelance developer. **Skilled in  C/C++, Java, Python
 <p align="center-left">
   <img alt="Years Badge" src="https://badges.pufler.dev/years/wilfriedaugeard"/>
   <img alt="Repos Badge" src="https://badges.pufler.dev/repos/wilfriedaugeard"/>
+  <img alt="Forks Badge" src="https://img.shields.io/github/forks/wilfriedaugeard/wilfriedaugeard?label=Forks&color=brightgreen"/>
   <img alt="Visits Badge" src="https://badges.pufler.dev/visits/wilfriedaugeard/wilfriedaugeard"/>
 </p>
