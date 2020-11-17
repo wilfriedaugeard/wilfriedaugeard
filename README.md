@@ -29,7 +29,7 @@ I carry out missions as a freelance developer. **Skilled in  C/C++, Java, Python
 
 
 ## Skills
-### Languages
+#### Languages
 <p align="left">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40" />
     <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
@@ -41,7 +41,7 @@ I carry out missions as a freelance developer. **Skilled in  C/C++, Java, Python
     <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
 </p>
 
-### Libs / Frameworks
+#### Libs / Frameworks
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
@@ -50,7 +50,7 @@ I carry out missions as a freelance developer. **Skilled in  C/C++, Java, Python
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40" />
 </p>
 
-### DevOps
+#### DevOps
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40" />
@@ -61,7 +61,7 @@ I carry out missions as a freelance developer. **Skilled in  C/C++, Java, Python
   <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/sonarqube.svg" alt="sornarqube" width="40" height="40"/>
 </p>
 
-### Others
+#### Others
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
