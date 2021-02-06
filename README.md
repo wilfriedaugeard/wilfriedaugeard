@@ -16,9 +16,9 @@ I carry out missions as a freelance developer. **Skilled in  C/C++, Java, Python
 
 
 - 🔭 I’m currently working as **student** and **Freelance software engineering**
-- 🌱 I’m currently learning more deeply **Python - PyGame**. I transpose a board game into virtual game 
+- 🌱 I’m currently learning **React Native**
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with data science
+- 🤔 I’m looking for help with data science / Advenced web skills
 - 📫 How to reach me: on social networks
 
 
